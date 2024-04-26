@@ -1,4 +1,4 @@
-# Hola, soy [Joaquin Ignacio Sanchez Figueroa] 👋
+# Hola, soy **Joaquin Ignacio Sanchez Figueroa** 👋
 
 ## 👨‍💻 Sobre Mí
 
