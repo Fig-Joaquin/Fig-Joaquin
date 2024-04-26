@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-- 🎓 Estudiando Ingeniería en [Universidad Del Bío-Bío]
+- 🎓 Estudiando Ingeniería en **[Universidad Del Bío-Bío]**
 - 🌱 Actualmente aprendiendo **[Python]**
 - 🥅 Objetivos 2024: **Aprender Django**
 - ⚡ Dato curioso: **Me encanta [encontrarme con errores y solucionarlos]**
