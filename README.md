@@ -23,7 +23,7 @@
 
 
 ## 📚 Leyendo
-Actualmente leyendo **"Nombre del Libro"** de **Autor del Libro**.
+Actualmente leyendo **"Learning Python 5th Edition"** de **Lutz, Mark**.
 
 ## 🌐 Social
 - **Instagram**: [@tuUsuario](URL-de-tu-Instagram)
