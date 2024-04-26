@@ -25,9 +25,6 @@
 ## 📚 Leyendo
 Actualmente leyendo **"Learning Python 5th Edition"** de **Lutz, Mark**.
 
-## 🌐 Social
-- **Instagram**: [@tuUsuario](URL-de-tu-Instagram)
-- **Twitter**: [@tuUsuario](URL-de-tu-Twitter)
 
 
 
