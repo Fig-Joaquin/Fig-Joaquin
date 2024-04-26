@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy [Joaquin Ignacio Sanchez Figueroa] 👋
 
 ## 👨‍💻 Sobre Mí
 
