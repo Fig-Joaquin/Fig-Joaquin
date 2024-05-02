@@ -11,7 +11,7 @@
 
 ### Lenguajes y Frameworks
 - **Lenguajes de Programación:** Python 🐍, JavaScript (ES6+), C, Java
-- **Frameworks:** React, Flask, Express.js
+- **Frameworks:** React, Node.js, Express.js, Flask
 - **Herramientas y Otros:** Git, Visual Studio Code
 
 ### Bases de Datos
