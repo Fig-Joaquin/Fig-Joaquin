@@ -4,13 +4,13 @@
 
 - 🎓 Estudiando Ingeniería en **[Universidad Del Bío-Bío]**
 - 🌱 Actualmente aprendiendo **[Python]**
-- 🥅 Objetivos 2024: **Aprender Django**
+- 🥅 Objetivos 2024: **Aprender Nest JS y Next JS**
 - ⚡ Dato curioso: **Me encanta encontrarme con errores y desafíos para solucionarlos**
 
 ## 🛠 Habilidades Técnicas
 
 ### Lenguajes y Frameworks
-- **Lenguajes de Programación:** Python 🐍, JavaScript (ES6+), C, Java
+- **Lenguajes de Programación:** JavaScript (ES6+), TypeScript, C, Java, Python
 - **Frameworks:** React, Node.js, Express.js, Flask
 - **Herramientas y Otros:** Git, Visual Studio Code
 
