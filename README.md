@@ -1,4 +1,4 @@
-echo "# Hello, I'm **Joaquin Ignacio Sanchez Figueroa** 👋
+Hello, I'm **Joaquín Ignacio Sanchez Figueroa** 👋
 
 ## 👨‍💻 About Me
 
