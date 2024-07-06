@@ -1,4 +1,4 @@
-Hello, I'm **Joaquín Ignacio Sanchez Figueroa** 👋
+# Hello, I'm **Joaquín Ignacio Sanchez Figueroa** 👋
 
 ## 👨‍💻 About Me
 
@@ -23,4 +23,5 @@ Hello, I'm **Joaquín Ignacio Sanchez Figueroa** 👋
 
 ## 📚 Reading
 Currently reading **\"Learning Python 5th Edition\"** by **Mark Lutz**.
+
 
