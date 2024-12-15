@@ -11,7 +11,7 @@
 
 ### Languages and Frameworks
 - **Programming Languages:** JavaScript (ES6+), TypeScript, C, Java, Python
-- **Frameworks:** React, Node.js, Express.js, Flask
+- **Frameworks:** React, Node.js, Express.js, Flask, Tailwind CSS
 - **Tools and Others:** Git, Visual Studio Code
 
 ### Databases
